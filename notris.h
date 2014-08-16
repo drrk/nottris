@@ -1,5 +1,5 @@
-#ifndef __TETRIS_H
-#define __TETRIS_H
+#ifndef __NOTRIS_H
+#define __NOTRIS_H
 enum tetrinoType_t {I, O, Z, S, T, L, J};
 enum orientationType_t {dN, dE, dS, dW};
 

@@ -1,6 +1,6 @@
 #include <glcd.h>
 
-#include "tetris.h"
+#include "notris.h"
 
 void drawBlock(int x, int y,  tetrinoType_t type)
 {
